@@ -1,5 +1,5 @@
 - Hi, I’m @Halen0Jacobsen
-- Im currently in college for secure software development. I want to go on to work in embedded systems, I currently do most my projects using Java - Python or C++
+- Im currently in college for secure software development. I want to go on to work in embedded systems, I currently do most my projects using Java - Python or C/C++
 - I like robotics projects and 3D Printing, I want to work on building a Hemp-Crete 3D printer
 - Find me @ halenjacobsen.dev on Instagram
 - 
